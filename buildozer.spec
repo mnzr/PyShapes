@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Ratul's Paint
+title = PyShapes
 
 # (str) Package name
-package.name = ratulspaint
+package.name = pyshapes
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = xyz.ratul
