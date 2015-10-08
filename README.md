@@ -4,3 +4,6 @@ A simple app to draw shapes on your Android device. It's minimalistic interface 
 
 ## Install
 Download the APK file from [here](https://github.com/mnzr/PyShapes/blob/master/bin/PyShapes-1.0-debug.apk?raw=true) to your Android device. Then just install it. You might need to turn on untrusted sources from your settings if any error message shows.
+
+## Source code
+To edit the source code first fork it and then delete the buildozer.spec file. It has locations of SDK and NDK in my own workstation hardcoded, so using the default might result in errors.
